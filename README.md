@@ -1,2 +1,2 @@
-# Throne-and-Liberty-Weather-Bot
-A Discord Bot for Displaying Weather Cycles on a Bot User in your Discord Server
+# FairTech's Throne-and-Liberty-Bots
+Discord Bot for Displaying Time, Weather, and Event cycles as Bot Users in your Discord Server.
