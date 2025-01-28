@@ -1,6 +1,6 @@
 TERMS OF SERVICE AGREEMENT
 
-This Terms of Service Agreement (the "Agreement") is entered into between [Nicholas Fair] ("Bot Owner") and the user ("User") of the Throne and Liberty Discord bots (the "Bots").
+This Terms of Service Agreement (the "Agreement") is entered into between Fairtech [Nicholas Fair] ("Bot Owner") and the user ("User") of FairTech's Throne and Liberty Discord bots (the "Bots").
 
 By using the Bots, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Bots.
 
