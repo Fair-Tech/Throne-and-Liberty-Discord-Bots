@@ -6,7 +6,7 @@ Discord Bots for Displaying Time, Weather, and Event cycles as Bot Users custom 
 
 - Region/Server Changes via Command
 
-- Supports all Throne and Liberty Servers, NA and KR
+- Supports all Throne and Liberty Servers, Global and Korea
 
 
 More Features Coming Soon..
